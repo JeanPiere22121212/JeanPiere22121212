@@ -1,6 +1,6 @@
 - 👋 Hola, soy @JeanPiere
 - 👀 Me intereza mucho sobre la programacion.
-- Soy estudiante para Ing. Mecanica-Electronica
+- Soy estudiante para Ing. Mecanico-Electrica
 
 
 <!---
